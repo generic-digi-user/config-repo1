@@ -1,0 +1,4 @@
+# Property used on app startup to check the config server status
+configserver:
+    name: Accelerator Registry local config server
+    status: Connected to the Accelerator Registry local config server!
