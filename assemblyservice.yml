@@ -1,0 +1,6 @@
+autochasis:
+  name: autochasisservice
+autobody:
+  name: autobodyservice
+autointeriors:
+  name: autointeriorservice
